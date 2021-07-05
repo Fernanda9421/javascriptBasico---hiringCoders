@@ -1,1 +1,2 @@
-# javascriptBasico---hiringCoders
+# Aulas de JavaScript Básico
+### Operadores
